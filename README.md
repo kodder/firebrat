@@ -7,6 +7,9 @@ So I decided to port it to github , integrate with Flask, some bootstrap
 prettification, count word occurences, save in mongodb  and show them in d3js graph.
 Why? just because I can...
 
+## Status
+In Progress for first release
+
 
 ## Requirements
 todo
